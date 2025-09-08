@@ -1,17 +1,17 @@
 <h2 align="center">
-    「 𝕮𝖍𝖆𝖒𝖕𝖚 」</h2>
+    「 𝖐𝖊𝖑𝖗𝖆 」</h2>
 
 <p align="center">
-  <img src="https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif">
+  <img src="https://github.com/Kelragtg/KelraMusic/blob/main/TheChampu.gif">
 </p>
 </p>
  <h3></h3>
  <h3 align="center">
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
 
-[˹мꝛ ᴄʜᴧᴍᴘᴜ˼](https://t.me/TheChampu)
+[˹мꝛ ᴋᴇʟʀᴧ˼](https://t.me/kelrapls)
 <h3 align="center">
-<a href="https://github.com/TheChampu"><img alt="Website" src="https://img.shields.io/badge/𝕮𝖍𝖆𝖒𝖕𝖚-red"></a>
+<a href="https://github.com/kelragtg"><img alt="Website" src="https://img.shields.io/badge/𝖐𝖊𝖑𝖗𝖆-red"></a>
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/TheShivanshu)

